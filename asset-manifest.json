@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/test-centralnoe/static/css/main.b80b4be3.css",
+    "main.js": "/test-centralnoe/static/js/main.c645f284.js",
+    "index.html": "/test-centralnoe/index.html",
+    "main.b80b4be3.css.map": "/test-centralnoe/static/css/main.b80b4be3.css.map",
+    "main.c645f284.js.map": "/test-centralnoe/static/js/main.c645f284.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b80b4be3.css",
+    "static/js/main.c645f284.js"
+  ]
+}
